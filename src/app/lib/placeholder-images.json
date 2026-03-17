@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-student",
+      "description": "A student studying with digital notes and AI assistance",
+      "imageUrl": "https://picsum.photos/seed/edu1/1200/800",
+      "imageHint": "student studying"
+    },
+    {
+      "id": "ai-tutor-avatar",
+      "description": "Conceptual representation of a friendly AI tutor",
+      "imageUrl": "https://picsum.photos/seed/ai-tutor/400/400",
+      "imageHint": "ai robot"
+    }
+  ]
+}
