@@ -58,7 +58,16 @@ This project calls Google Cloud AI services directly. See the following files fo
 
 
 
+
+VIDEO LINK OF WROKING PROJECT, 
+CANT RECORD AUDIO DUE TO MIC ISSUE
+
+video link- 
+https://1drv.ms/v/c/4ff61588883eb20c/IQCclbIcqxrOTqgagDjzOcc7ARZMrFELVUaXc5Xuzt8MBDY?e=APwCeM
+
+
+
+
+
 ---
 *Created for the Google Gemini AI Hackathon.*
-
-https://1drv.ms/v/c/4ff61588883eb20c/IQCclbIcqxrOTqgagDjzOcc7ARZMrFELVUaXc5Xuzt8MBDY?e=APwCeM
