@@ -60,3 +60,5 @@ This project calls Google Cloud AI services directly. See the following files fo
 
 ---
 *Created for the Google Gemini AI Hackathon.*
+
+https://1drv.ms/v/c/4ff61588883eb20c/IQCclbIcqxrOTqgagDjzOcc7ARZMrFELVUaXc5Xuzt8MBDY?e=APwCeM
